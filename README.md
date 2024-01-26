@@ -87,6 +87,12 @@ Classe pour les deux timers 0 et 2.
 Classe pour le timer 1.
 ``` 
 
+# Credits:
+- Abdelnour Sikouky
+- Sebastien Brossier
+- Jeremy Trudel
+- Irina Maximciuc
+
 
 
 ## License
