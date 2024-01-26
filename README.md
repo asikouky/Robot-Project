@@ -2,8 +2,8 @@
 
 Ce projet est dans le cadre du cours INF1900,
 Il a pour objectif : 
-	- Identifier le coin ou se situe le robot et vers quelle direction.
-	- Effectuer un trajet d'un point A a un point B.
+- Identifier le coin où se situe le robot et vers quelle direction.
+- Effectuer un trajet d'un point A a un point B.
 
 # Compilation
 pour la [librairie](https://github.com/asikouky/Robot-Project/tree/main/lib): va au dossier lib:
