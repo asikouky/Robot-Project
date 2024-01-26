@@ -76,7 +76,7 @@ Classe pour les directions du capteur de ligne.
 ``` 
 - SharpIR: 
 ```bash
-Classe pour le capteur Infrarouge pour détecter s'il y'a un poteau.
+Classe pour le capteur Infrarouge pour détecter un poteau.
 ``` 
 - Timer: 
 ```bash
