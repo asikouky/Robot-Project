@@ -36,7 +36,7 @@ pour compiler le programme.
 ```bash
 % make install
 ```
-pour installer le programm dans le robot.
+pour installer le programme dans le robot.
 
 Ou lance:
 
